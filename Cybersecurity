@@ -39,6 +39,30 @@ Web Server->running the website
 Web Site
 Web Application->user interaction
 Web Page
+carrier objectives(2 fields)
+   -> Affectives(red(
+   -> Defectives(blue)
+White hat hacker->software architecture
+Black hat hacker->hackers,have the particular information of something
+CIA-Confidentiality Integrity Availability
+Authentication->to verify someones identity
+*Three factors
+->something you know
+->something you have
+->something you are
+Authorisation(another name access control)->to have the permission
+encrytion->Adding the voice
+Breach->loss of control
+Event->Any observable occurrence
+Exploit->particular attack
+Incident->An event that actually or potentially jeopardizes->attack
+Intrusion->security event
+Threat->Any circumstance or event with the potential to adversely impact organisational operation
+IPV4
+192.168.1.1/24-32 Bite-0 to 9(11000000. 10101000 .00000001.00000001)
+IPV6
+128 Bite-Hex-0 to 9,A,B,C,D,E,F
+MYSql-3306 prt number
 
 
 
