@@ -1,3 +1,5 @@
+Day -1
+
 Networks:
        Medium to communicate
 vuleneratly:
@@ -63,6 +65,28 @@ IPV4
 IPV6
 128 Bite-Hex-0 to 9,A,B,C,D,E,F
 MYSql-3306 prt number
+
+Day-2
+
+Windows
+->exe file(Executable file)
+->bat file(Batch file)
+
+@echo off
+To start an application by using this command
+->same subnet and same IP address is called as LAN
+>ping 171.1.44.44 -c 4(ping is one of the switch 
+->ipconfig --help
+windows-n
+Linux-c
+
+
+IN CISCO PACKET TRACER
+same network device ->cross over
+different network device->straight through
+two router connect->coaxial
+Half duplex-one side communication
+Full duplex-two side communication
 
 
 
