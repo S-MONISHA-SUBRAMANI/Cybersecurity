@@ -89,6 +89,16 @@ Half duplex-one side communication
 Full duplex-two side communication
 
 
+Day-3
+
+tracert-command is used to check how many roots  available between two pc
+DHCP -> Dynamic Host Configuration Protocol
+DNS->Domain Name System
+A record->IPV4
+AA record->IPV6
+
+
+
 
 
      
