@@ -134,6 +134,8 @@ SYN-ACK-synonation
 ACK-acknowlgement
 
 TLS->Transport Layer Security(key exchange)
+Hashing->one way,cannot be reverse
+
 
 
 
