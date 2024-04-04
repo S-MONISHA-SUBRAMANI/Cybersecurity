@@ -20,6 +20,8 @@ Portcols:
     set of rules
 TCP,UDP->Connecting both software and hardware
 65535->TCP ports,65535->UDP
+UDP->fast connection
+TCP->secure connection
  b/w->https,http
 Blockchain
 SQL
@@ -73,9 +75,10 @@ Windows
 ->bat file(Batch file)
 
 @echo off
+ping command is use ICMP(Internet Control Message Protocol)
 To start an application by using this command
 ->same subnet and same IP address is called as LAN
->ping 171.1.44.44 -c 4(ping is one of the switch 
+>ping 171.1.44.44 -c 4(ping is one of the switch )
 ->ipconfig --help
 windows-n
 Linux-c
@@ -100,9 +103,47 @@ AA record->IPV6
 
 Day-4
 
-cd-change the directory
-To back->cd ..
-where
+powershell is used to run the basic command
+port 80->http
+
+without the wifi ,internet ,bluetooth we can transfer the file by using this command->python -m http.server (port number eg:9999).Important thing python should be install in the pc
+anytime monitoring the system they are called as   ->   SOC(Security Operation Center) analysis
+
+lo->network interface
+
+VPN->Encryption.connection between client and server(insecure connection changed into secure connection)
+
+Encryption->clear text->cipher text
+Decryption->cipher text->clear text
+
+eg:-------VPN-----------
+    Clint(192.168.1.2)<----->Server(192.168.1.3)
+   -------VPN-----------
+10.10.10.2                    10.10.10.3
+
+*****
+Symmetric Encryption->Single key(one key is used to lock and unlock)
+Asymmetric Encryption->Public/Private Key(used in lock website)
+wireshake->packet analyser
+ip addr==address(163.70.138.35) to filter the address
+
+***
+ 3 way handshake->
+SYN-synonation
+SYN-ACK-synonation
+ACK-acknowlgement
+
+TLS->Transport Layer Security(key exchange)
+
+
+
+
+
+
+
+
+
+
 
 
 
