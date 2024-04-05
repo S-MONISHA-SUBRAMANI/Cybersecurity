@@ -137,6 +137,27 @@ TLS->Transport Layer Security(key exchange)
 Hashing->one way,cannot be reverse
 
 
+Day-5
+
+Production Environment->live website/web application
+Staging Environment->Actual copy of product
+QA Environment->test build
+
+client Request ------>Server Response
+HTTP Method            Response code
+GET                       1XX - Informational
+POST                      2XX -Ok
+PUT                       3XX -Redirection
+OPTIONS                   4XX -Client-side error
+DELETE                    5XX -Server-side error
+
+Client---->Proxy 1------>Proxy 2------->Proxy 3------->
+Proxy 4------->Proxy 5------->Proxy 6------->Server
+
+user agent->browser
+
+
+
 
 
 
