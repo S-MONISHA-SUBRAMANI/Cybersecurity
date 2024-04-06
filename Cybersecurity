@@ -156,6 +156,46 @@ Proxy 4------->Proxy 5------->Proxy 6------->Server
 
 user agent->browser
 
+Day-6
+
+VA => VULNERABILITY ASSESSMENT.
+VA Assessment Process
+
+*Asset discovery
+*Vulnerability scanning
+*Vulnerability assessment
+*Vulnerability remediation.
+
+NVD => National Vulnerability Database
+CVSS =>Common Vulnerability scoring system
+
+Scanners
+*automated vulnerability scanning
+*penetration testing
+
+API => Transferring data from front end to back end (application programming interface)
+
+Policy=>Governess
+Procedure=> Step by step process of a policy
+Standard=>there have the define rules
+Regulations=>rules given by the government
+
+Penetration Testing:
+1.Information Gathering=>How many hosts are there and How many routers are there and we can identify what are the protocols are used
+2.Scanning=> In which ports what vesrions are running
+3.Gaining access:Gain basics access.Find the vulnerabilty and exploit it
+4.Maintaining access=>Also called persistance
+5.Clearing tracks=>To remove all digital footprints.
+
+Penetration testing:
+Internal=> This testing is performed within the organisation across the LAN(there have some limitation)
+External=>The testing is done on the web application =>outside the organisation.(there have no limitation)
+
+https://owasp.org/Top10/A01_2021-Broken_Access_Control/#factors->want to read daily*****
+
+
+
+
 
 
 
