@@ -44,7 +44,7 @@ Web Site
 Web Application->user interaction
 Web Page
 carrier objectives(2 fields)
-   -> Affectives(red(
+   -> Affectives(red)
    -> Defectives(blue)
 White hat hacker->software architecture
 Black hat hacker->hackers,have the particular information of something
@@ -67,6 +67,7 @@ IPV4
 IPV6
 128 Bite-Hex-0 to 9,A,B,C,D,E,F
 MYSql-3306 prt number
+ssh->schedule shell,remote connection,ssh is one type of server(provides a secure encrypted connection between two hosts over an insecure network)
 
 Day-2
 
