@@ -208,6 +208,35 @@ Ransomware->
 dos->one person focus on one attack
 Ddos->Distributed Denial of Services Attack->many people focus on one attack
 
+Encrytion->step by step process
+Threat Actors->also called as bad actors,individual or groups that intentional cause harm to digital devices or system
+
+Types of threat actors
+->Cybercriminals
+->Nation state actors
+->Hacktivists
+->Thrill seekers
+->Insider threats
+->Cyberterrorists
+
+NIST cybersecurity Framework***
+->Identify
+->Protect
+->Detect
+->Respond
+->Recover
+
+If fireball know the connection,knowledge of packet->state ful
+If firewall have no knowledge in packet->state less
+
+HIDS->Host Based Intrusion Detection System
+NIDS->Network Based Intrusion Detection System
+MDM->Management Device Management
+Endpoint Protection->Antivirus
+CASB->Cloud Access Security Broker
+
+Compliance->confirming to a rule such as specification,policy,standard or law
+
 
 
 
