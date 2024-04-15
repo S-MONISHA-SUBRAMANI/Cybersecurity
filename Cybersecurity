@@ -237,6 +237,37 @@ CASB->Cloud Access Security Broker
 
 Compliance->confirming to a rule such as specification,policy,standard or law
 
+WSA=> SECURE WEB APPLIANCE.
+FRAMEWORK => COLLECTION OF TOOLS OR  SOFTWARE
+CLOUD SERVICE MODEL:
+    SaaS-Software as a service
+    PaaS-Platform as a service
+    IaaS-Infrastructure as a service
+PLATFORM =>IT PROVIDES EVERYTHING LIKE IDE 
+HOW CLOUD WORKS
+   => Data storage
+   =>Access anywhere
+   =>Virtualisation
+   =>Scalability
+   =>Cost-effective
+
+RISK MANAGEMENT
+->Risk Acceptance-A cyber security risk assessment is the process of identifying, analysing and evaluating risk. 
+It helps to ensure that the cyber security controls you choose are appropriate to the risks your organisation faces.
+->Risk Avoidance-without using limitation,mitigation we should prevent before
+->Risk Mitigation-a strategy to prepare for and lessen the effects of threats faced by a business.
+->Risk Transfer-transfering risk for one system to other system
+
+Threat Protection->In cloud security having some data we want protect it with encryption
+Shared Responsibility->in this method there have cloud services and user shareing their resources.
+Business Continuity->data cannot be backed up in same system.It stored in the cloud and secured
+on -primises->with ite campus
+
+
+
+
+
+
 
 
 
