@@ -263,6 +263,22 @@ Shared Responsibility->in this method there have cloud services and user sharein
 Business Continuity->data cannot be backed up in same system.It stored in the cloud and secured
 on -primises->with ite campus
 
+Cloud Security Models
+->public cloud security - public access
+->private cloud security -  private access
+->Hydrid cloud security- combination of public and private 
+->Community cloud security - multiple organisation 
+
+Regulatory Compliance in Cloud security
+
+->GDPR-General Data Protection Regulation
+->HIPAA-Health Portability and Accountability
+->PCIDSS-Payment Card Industry Data Security Standard
+->ISO 27001-International Standard Outlining
+
+ISMS-Information Security Management System
+
+
 
 
 
