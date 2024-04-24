@@ -328,6 +328,8 @@ Offline Password Cracking-CPU/GPU-John/Hashcat
 Hydra can  perform in dictionary attack
 
 read-4,write-2,execute-1
+ wget command is used download
+curl command is used to view
 
 
 
