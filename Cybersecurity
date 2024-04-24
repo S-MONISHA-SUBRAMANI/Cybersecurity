@@ -331,6 +331,12 @@ read-4,write-2,execute-1
  wget command is used download
 curl command is used to view
 
+how to open the task bar in the kali?    command:ps aux
+windows.dumpfiles  --pid 4640***-python3 vol.py
+
+
+
+
 
 
 
