@@ -305,6 +305,30 @@ It lists out all the tricks and tactics that hackers might use to attack a compu
 By studying this playbook, cybersecurity professionals can better defend against these attacks and keep their systems safe)
 https://attack.mitre.org/   *******(14 steps)
 
+OSINT-Open Source Intelligence
+
+7 Stages of Cyber chain****
+->Reconnasissance-Obtain information about the victim andm the tactics used for the attack
+->Weaponisation-Malware is engineered based on the needs and intentions of the attack
+->Delivery
+->Exploitation
+->Installation-Install malware and other tools to gain access to the victim's system
+->Command & Control
+->Actions on objectives-Fulfil the intended goals for the attack:financial 
+
+Diamond Model
+->Adversary-Allow analysts to identify the motive behind the attack
+->Victim-Group or organisation affected by an attack
+->Infrastructure
+->Capabilities
+
+Burpsuite work in layer 7
+online password cracking-Burpsuite/Hydra****
+Offline Password Cracking-CPU/GPU-John/Hashcat
+Hydra can  perform in dictionary attack
+
+read-4,write-2,execute-1
+
 
 
 
