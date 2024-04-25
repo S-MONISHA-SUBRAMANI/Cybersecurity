@@ -353,6 +353,15 @@ BCP-Business Continunity Plan
 
 
 
+nmap 10.10.42.82 -p1-65535 --min-rate=3000 -v -oN open_ports.txt
+nmap 10.10.42.82 -p22,80,135,445 -A --min-rate=3000 -v -oN open_services.
+smbclient -L //10.10.44.89  
+dirb http://10.10.42.82/ /usr/share/seclists/Discovery/Web-Content/raft-small-words.txt -r -f | grep 200
+wfuzz -c -z file,users.txt -z file,pass.txt --sc 200 http://10.10.42.82/log.asp?user=FUZZ&pass=FUZ2Z
+dirb http://10.10.42.82/ /usr/share/seclists/Discovery/Web-Content/raft-small-words.txt -r -f | grep -v 302
+dirb http://10.10.42.82/ /usr/share/seclists/Discovery/Web-Content/raft-small-words.txt -r -f -N 302
+wfuzz -c -z file,/usr/share/seclists/Discovery/Web-Content/raft-small-words.txt -u http://10.10.239.103/subrion/FUZZ -t 100
+
 
 
 
