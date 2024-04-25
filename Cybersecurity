@@ -334,6 +334,26 @@ curl command is used to view
 how to open the task bar in the kali?    command:ps aux
 windows.dumpfiles  --pid 4640***-python3 vol.py
 
+3 As for cyber
+->Acquire-the evidence without altering or damaging the original
+->Authenticate
+->Analyze
+
+Process/Phase
+->Identification
+->Collection-Bag
+->Preservation
+->Examination
+->Analysis
+->Presentation/Report
+
+IRP-Incident Responses Plan
+DRP-Disaster Recovery Plan
+BCP-Business Continunity Plan
+
+
+
+
 
 
 
