@@ -6,7 +6,7 @@ vuleneratly:
        weakness
 Tools(security):
         hashcat->password cracking tool
-Bruteforce:
+Bruteforce:combination of all possibible way
 RAT:
    remote access trojan
 Cybersecurity:
